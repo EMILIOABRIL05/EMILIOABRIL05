@@ -7,6 +7,15 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="TU_ENLACE_DE_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="EMILIO ABRIL | LinkedIn" />
+  </a>
+  <a href="mailto:alexanderabril552@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
 ---
 
 ### 🎓 About Me
@@ -14,9 +23,8 @@
 - 🛡️ **Education**: Currently pursuing a degree in **Software Engineering** at Universidad Técnica de Ambato.
 - 🚀 **Core Foundations**: Proficient in **Structural Programming**, **Object-Oriented Programming (OOP)**, and **Data Structures**.
 - ☕ **Current Focus**: Enhancing my skills as a **Java Beginner**, focusing on Swing and JasperReports integration.
-- 🌐 **Web Experience**: Developing responsive interfaces with **React** and building robust backends.
+- 🌐 **Web Experience**: Developing responsive interfaces with **React** and building robust backends with **ASP.NET Core**.
 - 🐍 **Exploration**: Having basic exposure to **Python** while strengthening my core in **C#** and **JavaScript**.
-- 📫 Reach me at: **[alexanderabril552@gmail.com](mailto:alexanderabril552@gmail.com)**
 
 ---
 
@@ -73,16 +81,24 @@
 
 ### 📂 Featured Projects
 
-- 🛒 **E-Commerce Platform**: A technology-focused store built using **ASP.NET Core Web API** and **React**. Implemented **Entity Framework Core** and a modular architecture.
+- 🛒 **E-Commerce Platform**: A technology-focused store built using **ASP.NET Core Web API** and **React**. Implemented **Entity Framework Core** and modular architecture.
 - 📊 **JasperReports Integration**: Author of research on **Band Architecture in JasperReports**, implementing reporting modules for Java desktop applications.
 - 🌐 **Network Infrastructure**: Configuration of complex topologies in **Cisco Packet Tracer**, including VLANs, VTP, and WLC management.
 
 ---
 
-### 📊 GitHub Stats
+### 🌟 Support my Work
+
+If you find any of my projects helpful or you use them in your own work, please consider giving them a **star** ⭐. It helps me stay motivated and improves the visibility of the repositories!
+
+---
+
+### 📊 GitHub Stats & Streak
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EMILIOABRIL05&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EMILIOABRIL05&theme=algolia&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMILIOABRIL05&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
 </div>

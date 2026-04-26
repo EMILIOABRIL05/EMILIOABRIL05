@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="TU_ENLACE_DE_LINKEDIN_AQUI" target="_blank">
+  <a href="www.linkedin.com/in/emilio-abril-b6a9b0405" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="EMILIO ABRIL | LinkedIn" />
   </a>
   <a href="mailto:alexanderabril552@gmail.com">
